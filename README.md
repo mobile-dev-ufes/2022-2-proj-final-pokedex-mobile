@@ -29,7 +29,7 @@
 
 <h2>Imagens do App</h2>
 <div align="center" height="80px">
-  <img src="https://i.imgur.com/gSf3A0C.png" width="200" height="400"/>
+  <img src="https://i.imgur.com/r3YCBoP.png" width="200" height="400"/>
   <img src="https://i.imgur.com/3nnX18D.png" width="200" height="400"/>
   <img src="https://i.imgur.com/wJZG8wu.png" width="200" height="400"/>
   <img src="https://i.imgur.com/UPkPEMh.png" width="200" height="400"/>
