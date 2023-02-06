@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="login">Login</string>
+    <string name="register">Cadastrar</string>
+    <string name="type_email">Digite o email</string>
+    <string name="type_password">Digite a senha</string>
+    <string name="confirm_password">Confirme a senha</string>
+    <string name="not_registered">Não tem conta? Crie aqui!</string>
+    <string name="already_registered">Ja tem conta? Faça login!</string>
+
+    <string name="main_title">Pokemon Pokedex</string>
+    <string name="invalid_email">Digite um email válido</string>
+    <string name="different_passwords">Senhas diferentes</string>
+    <string name="empty_fields">Campos vazios não são permitidos</string>
+    <string name="network_error">Falha ao conectar com a internet</string>
+    <string name="unavailable_email">Este e-mail já foi cadastrado</string>
+    <string name="invalid_credencials">Usuário ou senha incorretos</string>
+    <string name="register_successful">Cadastro realizado com sucesso</string>
+    <string name="firebase_error_sign_up">Houve algum problema no cadastro</string>
+    <string name="weak_password">Digite uma senha com no mínimo 6 caracteres</string>
+    <string name="firebase_error_sign_in">Houve algum problema no login, tente novamente</string>
+
+    <string name="pokemon_id">ID</string>
+    <string name="pokemon_type">Type:</string>
+    <string name="pokemon_placeholder_type">Type</string>
+    <string name="pokemon_base_stats">Base Stats:</string>
+    <string name="pokemon_stat">0</string>
+    <string name="pokemon_hp">HP</string>
+    <string name="pokemon_attack">Attack</string>
+    <string name="pokemon_defense">Defense</string>
+    <string name="pokemon_sp_attack">Sp Attack</string>
+    <string name="pokemon_sp_defense">Sp Def</string>
+    <string name="pokemon_speed">Speed</string>
+
+</resources>

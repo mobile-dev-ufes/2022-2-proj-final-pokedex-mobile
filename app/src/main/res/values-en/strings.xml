@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pokedex</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="type_email">Enter the email</string>
+    <string name="type_password">Type the password</string>
+    <string name="confirm_password">Confirm the Password</string>
+    <string name="not_registered">Don\'t have an account? Create here!</string>
+    <string name="already_registered">Already have an account? Log in!</string>
+
+    <string name="main_title">Pokemon Pokedex</string>
+    <string name="invalid_email">Enter a valid email address</string>
+    <string name="different_passwords">Different passwords</string>
+    <string name="empty_fields">Empty fields are not allowed</string>
+    <string name="network_error">Failed to connect to the internet</string>
+    <string name="unavailable_email">This email has already been registered</string>
+    <string name="invalid_credencials">Incorrect username or password</string>
+    <string name="register_successful">Registration done successfully</string>
+    <string name="firebase_error_sign_up">There was a problem registering</string>
+    <string name="weak_password">Enter a password with at least 6 characters</string>
+    <string name="firebase_error_sign_in">There was a problem logging in, please try again</string>
+
+    <string name="pokemon_id">ID</string>
+    <string name="pokemon_type">Type:</string>
+    <string name="pokemon_placeholder_type">Type</string>
+    <string name="pokemon_base_stats">Base Stats:</string>
+    <string name="pokemon_stat">0</string>
+    <string name="pokemon_hp">HP</string>
+    <string name="pokemon_attack">Attack</string>
+    <string name="pokemon_defense">Defense</string>
+    <string name="pokemon_sp_attack">Sp Attack</string>
+    <string name="pokemon_sp_defense">Sp Def</string>
+    <string name="pokemon_speed">Speed</string>
+
+</resources>
